@@ -1,10 +1,10 @@
-import { motion, } from "framer-motion";
+import { motion } from "framer-motion";
 
 function App() {
 
   return (
-    <div className=" h-[100vh] ">
-      <motion.div className=" h-full flex justify-center items-center">
+    <div className="">
+      <motion.div>
 
       </motion.div>
     </div>
